@@ -24,13 +24,10 @@ hr {
 
 @media (max-width: 768px) {
     .menu {
-        width: 90%;
-        padding: 15px;
+        width: 80%;
+        padding: 10px;
     }
-    h1, h2, h3, h4, h5, h6, p {
-        margin-left: 0;
-        text-align: center;
-    }
+    
     hr {
         width: 80%;
     }
